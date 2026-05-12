@@ -1,4 +1,4 @@
-# 
+# Enhance DaVinci Resolve for macOS with vip DaVinci Resolve for macOS Filter | 4K-export + auto-tune, the #1 filter. Includes 4K-export and auto-tune for a smoother and more
 
 
 
